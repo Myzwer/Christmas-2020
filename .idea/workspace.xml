@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Updated the default font to be gotham instead of harbor, as this is used on more projects than harbour is. Also made a slight change to the class names of text-color flips to be more consistant with other projects.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dev-gulp/gulpfile.js" beforeDir="false" afterPath="$PROJECT_DIR$/dev-gulp/gulpfile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/header.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +96,7 @@
       <workItem from="1600359805432" duration="20364000" />
       <workItem from="1600713969850" duration="164000" />
       <workItem from="1606754988007" duration="1324000" />
-      <workItem from="1606762988529" duration="65000" />
+      <workItem from="1606762988529" duration="526000" />
     </task>
     <task id="LOCAL-00001" summary="Updated a lot of the SASS to include some classes that I use in a lot of designs.">
       <created>1600362248990</created>
