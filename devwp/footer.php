@@ -1,6 +1,6 @@
 <?php
 /**
- * The template for displaying the footer of the Yestau Theme
+ * The template for displaying the footer of the Christmas Time Theme
  *
  * Contains the opening of the footer of all pages and all subsequent content.
  *

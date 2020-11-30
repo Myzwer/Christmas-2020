@@ -19,9 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Updated the default font to be gotham instead of harbor, as this is used on more projects than harbour is. Also made a slight change to the class names of text-color flips to be more consistant with other projects.">
+    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Jumped in and fixed the header because the 404 was annoying me.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/front-page.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +99,7 @@
       <workItem from="1600359805432" duration="20364000" />
       <workItem from="1600713969850" duration="164000" />
       <workItem from="1606754988007" duration="1324000" />
-      <workItem from="1606762988529" duration="526000" />
+      <workItem from="1606762988529" duration="832000" />
     </task>
     <task id="LOCAL-00001" summary="Updated a lot of the SASS to include some classes that I use in a lot of designs.">
       <created>1600362248990</created>
@@ -133,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606760461539</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Jumped in and fixed the header because the 404 was annoying me.">
+      <created>1606764116384</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606764116384</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +166,8 @@
     <MESSAGE value="Contact.php was living in the wrong spot, so I moved it to its correct folder." />
     <MESSAGE value="Completely reworked my scss file structure. Moved most of my files into a few folders and broke them apart into smaller files. This change was inpsired from changes I was making to nearly every project I worked on. The current structure had too many classes that could fit into one or more files, so this helps differentiate which classes should be in which files." />
     <MESSAGE value="Updated the default font to be gotham instead of harbor, as this is used on more projects than harbour is. Also made a slight change to the class names of text-color flips to be more consistant with other projects." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the default font to be gotham instead of harbor, as this is used on more projects than harbour is. Also made a slight change to the class names of text-color flips to be more consistant with other projects." />
+    <MESSAGE value="Jumped in and fixed the header because the 404 was annoying me." />
+    <option name="LAST_COMMIT_MESSAGE" value="Jumped in and fixed the header because the 404 was annoying me." />
   </component>
   <component name="WindowStateProjectService">
     <state x="626" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600370564002">

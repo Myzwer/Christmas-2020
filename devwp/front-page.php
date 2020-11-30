@@ -2,7 +2,7 @@
 /**
  * Template Name: Front Page
  *
- * The Frontpage of the Yestau Theme
+ * The Frontpage of the Christmas Time Theme
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *

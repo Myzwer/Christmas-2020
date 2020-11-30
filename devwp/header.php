@@ -1,6 +1,6 @@
 <?php
 /**
- * Header file for the Yestau Theme
+ * Header file for the Christmas Time Theme
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
