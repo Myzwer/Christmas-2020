@@ -13,16 +13,51 @@
 
 get_header(); ?>
 
-    <video src="https://foothillscollective.com/wp-content/uploads/2020/02/Revival-Here-Background.mp4" autoplay loop playsinline muted></video>
+<!--Header
+    Event Details / Intro Paragrah
+    Online Service
+    FAQ -->
 
-    <div class="viewport-header">
-        <div>
-            <h1 class = "main-header">What happened That Night</h1>
-            <h1 class = "main-header"> Watch the exclusive video</h1>
+    <div class="show-for-desktop">
+
+        <video class = "" src="http://christmas-2020.local/wp-content/uploads/2020/11/Christmas-Backround.mp4" autoplay loop
+               playsinline muted></video>
+
+        <div class="viewport-header">
+            <div>
+                <div class="main-header"><div class="logo"><img
+                            src="http://christmas-2020.local/wp-content/uploads/2020/12/AFC_WEBSITE_SCALED_TRANSPARENT-1.png"
+                            alt=""></div>
+                </div>
+                <!--<h1 class="main-header">Sunday, December 20</h1>-->
+            </div>
         </div>
     </div>
 
 
+    <div class="show-for-mobile">
+        <div class="grid-container full-width">
+            <div class="grid-x grid-padding-x full-background" style = "background: linear-gradient(
+                    rgba(255, 255, 255, .45),
+                    rgba(255, 255, 255, .45)
+                    ),url(http://christmas-2020.local/wp-content/uploads/2020/12/Christmas-mobile.jpg);
+                    background-position: center center;
+                    background-repeat: no-repeat;
+                    background-attachment: scroll;
+                    background-size: cover;">
+                <div class="small-12 cell">
+                    <div class="content-middle width-large">
+                        <div class="viewport-header">
+                            <div class="head-container">
+                                <div class="logo"><img src="http://christmas-2020.local/wp-content/uploads/2020/12/AFC_WEBSITE_SCALED_TRANSPARENT-1.png">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 <div class="full-width main-background">
     <div class = "grid-container">

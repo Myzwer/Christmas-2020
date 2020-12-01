@@ -19,12 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Jumped in and fixed the header because the 404 was annoying me.">
+    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Updated the Theme name across the site from the starter theme name to Christmas time, the theme for this website.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/dist/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/main.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/front-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/header.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/sass/components/_backgrounds.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/components/_backgrounds.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/sass/utilities/_alignment.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/utilities/_alignment.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/sass/utilities/_spacing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/utilities/_spacing.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +102,8 @@
       <workItem from="1600359805432" duration="20364000" />
       <workItem from="1600713969850" duration="164000" />
       <workItem from="1606754988007" duration="1324000" />
-      <workItem from="1606762988529" duration="832000" />
+      <workItem from="1606762988529" duration="5020000" />
+      <workItem from="1606831804942" duration="5034000" />
     </task>
     <task id="LOCAL-00001" summary="Updated a lot of the SASS to include some classes that I use in a lot of designs.">
       <created>1600362248990</created>
@@ -143,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606764116384</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updated the Theme name across the site from the starter theme name to Christmas time, the theme for this website.">
+      <created>1606764434663</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606764434663</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +178,8 @@
     <MESSAGE value="Completely reworked my scss file structure. Moved most of my files into a few folders and broke them apart into smaller files. This change was inpsired from changes I was making to nearly every project I worked on. The current structure had too many classes that could fit into one or more files, so this helps differentiate which classes should be in which files." />
     <MESSAGE value="Updated the default font to be gotham instead of harbor, as this is used on more projects than harbour is. Also made a slight change to the class names of text-color flips to be more consistant with other projects." />
     <MESSAGE value="Jumped in and fixed the header because the 404 was annoying me." />
-    <option name="LAST_COMMIT_MESSAGE" value="Jumped in and fixed the header because the 404 was annoying me." />
+    <MESSAGE value="Updated the Theme name across the site from the starter theme name to Christmas time, the theme for this website." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the Theme name across the site from the starter theme name to Christmas time, the theme for this website." />
   </component>
   <component name="WindowStateProjectService">
     <state x="626" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600370564002">
