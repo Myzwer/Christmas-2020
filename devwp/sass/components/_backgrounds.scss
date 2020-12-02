@@ -24,6 +24,10 @@
   position: relative;
 }
 
+.banner-background {
+  height: auto;
+}
+
 .full-background-xl {
   height: 100vh;
 }
@@ -103,7 +107,12 @@ body {
   color: $background;
 }
 
-.primary-background {
-  background-color: $background;
+.red-background {
+  background-color: red;
+  color: white;
+}
+
+.green-background {
+  background-color: green;
 }
 

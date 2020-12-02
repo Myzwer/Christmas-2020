@@ -46,11 +46,24 @@
   padding-right: 20px;
 }
 
+.tb-padding {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .padding-bottom-xl {
   padding-bottom: 60px;
 }
 
+.small-padding {
+  padding: 5px;
+}
 
+@media screen and (min-width: 40em) {
+  .add-medium-padding {
+    padding: 20px;
+  }
+}
 
 //margin
 .no-margin {
@@ -77,4 +90,6 @@
 .margin-pull {
   margin-top: -20px;
 }
+
+
 
