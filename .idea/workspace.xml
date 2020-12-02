@@ -19,16 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Finished the first two sections on the homepage, still need to do the FAQ.">
-      <change afterPath="$PROJECT_DIR$/devwp/sass/components/_FAQ.scss" afterDir="false" />
+    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Finished the structure of the FAQ sections, though the questions will need to be updated later.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/dist/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/main.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/dist/js/devwp.js" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/js/devwp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/front-page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/devwp/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/src/js/custom-scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/src/js/custom-scripts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/sass/components/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/components/_footer.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +101,7 @@
       <workItem from="1600713969850" duration="164000" />
       <workItem from="1606754988007" duration="1324000" />
       <workItem from="1606762988529" duration="5020000" />
-      <workItem from="1606831804942" duration="17369000" />
+      <workItem from="1606831804942" duration="18041000" />
     </task>
     <task id="LOCAL-00001" summary="Updated a lot of the SASS to include some classes that I use in a lot of designs.">
       <created>1600362248990</created>
@@ -176,7 +173,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606929925528</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Finished the structure of the FAQ sections, though the questions will need to be updated later.">
+      <created>1606932216075</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1606932216075</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,7 +208,8 @@
     <MESSAGE value="Spent TWO HOURS working on the header only to realize the image was cropped wrong. So here's a small commit showing that. Pretty sure i got rid of all the troubleshooting content." />
     <MESSAGE value="Got the time / date / location section done, just created a new scss file to house it since it was so specific." />
     <MESSAGE value="Finished the first two sections on the homepage, still need to do the FAQ." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished the first two sections on the homepage, still need to do the FAQ." />
+    <MESSAGE value="Finished the structure of the FAQ sections, though the questions will need to be updated later." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the structure of the FAQ sections, though the questions will need to be updated later." />
   </component>
   <component name="WindowStateProjectService">
     <state x="626" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600370564002">
