@@ -139,7 +139,58 @@ get_header(); ?>
         </div>
     </div>
 
+    <div class="full-width main-background padding-bottom">
+        <div class = "add-medium-padding">
+            <div class="grid-x grid-padding-x grid-margin-x">
+                <div class="small-12 center cell">
+                    <h1 class = "light-color-invert add-padding">FAQ</h1>
+                </div>
 
+                <div class="small-12 medium-6 large-4 small-padding center">
+                    <img class = "box-shadow" src="http://christmas-2020.local/wp-content/uploads/2020/12/AFC_INSTA_1-copy.jpg" alt="">
+                </div>
+
+                <div class="small-12 medium-6 large-8 cell">
+                    <div class="faq-content">
+                        <div class="faq-question">
+                            <input id="q1" type="checkbox" class="panel">
+                            <div class="plus">+</div>
+                            <label for="q1" class="panel-title">Is there parking on site?</label>
+                            <div class="panel-content">42</div>
+                        </div>
+
+                        <div class="faq-question">
+                            <input id="q2" type="checkbox" class="panel">
+                            <div class="plus">+</div>
+                            <label for="q2" class="panel-title">How long will the experience last?</label>
+                            <div class="panel-content">A woodchuck would chuck all the wood he could chuck, if a woodchuck could chuck wood!</div>
+                        </div>
+
+                        <div class="faq-question">
+                            <input id="q3" type="checkbox" class="panel">
+                            <div class="plus">+</div>
+                            <label for="q3" class="panel-title">What is there to do for my kids?</label>
+                            <div class="panel-content">Certain questions are better left &nbsp; <a href="https://en.wikipedia.org/wiki/The_Unanswered_Question" target="_blank">unanswered</a></div>
+                        </div>
+
+                        <div class="faq-question">
+                            <input id="q3" type="checkbox" class="panel">
+                            <div class="plus">+</div>
+                            <label for="q3" class="panel-title">What should I wear?</label>
+                            <div class="panel-content">Certain questions are better left &nbsp; <a href="https://en.wikipedia.org/wiki/The_Unanswered_Question" target="_blank">unanswered</a></div>
+                        </div>
+
+                        <div class="faq-question">
+                            <input id="q3" type="checkbox" class="panel">
+                            <div class="plus">+</div>
+                            <label for="q3" class="panel-title">Are masks required?</label>
+                            <div class="panel-content">Certain questions are better left &nbsp; <a href="https://en.wikipedia.org/wiki/The_Unanswered_Question" target="_blank">unanswered</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
 
 

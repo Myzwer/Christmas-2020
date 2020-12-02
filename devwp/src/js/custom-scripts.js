@@ -6,5 +6,4 @@ function myFunction() {
         x.className = "topnav";
     }
 }
-
-console.log("Custom is linked properly fo sho yo");
+console.log("Custom is linked properly.");
