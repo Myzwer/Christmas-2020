@@ -20,10 +20,7 @@
 </head>
 
 <div class="topnav" id="myTopnav">
-    <div class = "pushypushy">
-        <?php wp_nav_menu( array( 'theme_location' => 'header-menu' ) ); ?>
-        <a href="javascript:void(0);" style="font-size:25px;" class="icon" onclick="myFunction()">&#9776;</a>
-    </div>
+
 </div>
 
 
