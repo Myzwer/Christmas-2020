@@ -119,8 +119,8 @@ get_header(); ?>
 
     <div class="grid-container full-width">
         <div class="grid-x grid-padding-x full-background banner-background" style = "background: linear-gradient(
-                    rgba(255, 0, 0, .85),
-                    rgba(255, 0, 0, .85)
+                    rgba(255, 78, 72, .85),
+                    rgba(255, 78, 72, .85)
                     ),url(<?php the_field('background_image'); ?>);
                     background-position: left center;
                     background-repeat: no-repeat;
