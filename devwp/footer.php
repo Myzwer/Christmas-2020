@@ -21,9 +21,9 @@
 <div class="red-background">
     <div class="center padding-top social-links">
         <ul class="social-icons icon-circle list-inline">
-            <li> <a href="#"><i class="fa fa-facebook"></i></a></li>
-            <li> <a href="#"><i class="fa fa-instagram"></i></a></li>
-            <li> <a href="#"><i class="fa fa-twitter"></i></a></li>
+            <li> <a href="https://www.facebook.com/foothillschurchTN"><i class="fa fa-facebook"></i></a></li>
+            <li> <a href="http://instagram.com/foothillschurchtn/"><i class="fa fa-instagram"></i></a></li>
+            <li> <a href="https://twitter.com/foothillschurch"><i class="fa fa-twitter"></i></a></li>
         </ul>
     </div>
 

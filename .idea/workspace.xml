@@ -19,18 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Updated ACF on the homepage to make everything dynamic.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/dist/css/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/main.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/dist/css/maps/main.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/front-page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/components/_backgrounds.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/components/_backgrounds.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/components/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/components/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/components/_footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/components/_info-card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/components/_info-card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/utilities/_utility-classes.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/utilities/_utility-classes.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/devwp/sass/variables/_colors.scss" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/sass/variables/_colors.scss" afterDir="false" />
+    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Updated the colors to the correct red, and changed the icons in the footer to a different scheme.">
+      <change beforePath="$PROJECT_DIR$/devwp/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/footer.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +97,7 @@
       <workItem from="1606754988007" duration="1324000" />
       <workItem from="1606762988529" duration="5020000" />
       <workItem from="1606831804942" duration="21780000" />
-      <workItem from="1607011175879" duration="1102000" />
+      <workItem from="1607011175879" duration="1722000" />
     </task>
     <task id="LOCAL-00001" summary="Updated a lot of the SASS to include some classes that I use in a lot of designs.">
       <created>1600362248990</created>
@@ -207,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606969071270</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Updated the colors to the correct red, and changed the icons in the footer to a different scheme.">
+      <created>1607018646341</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607018646341</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +236,8 @@
     <MESSAGE value="Updated the footer, since the ecommerce style one it defaults with had way too many links for this landing page." />
     <MESSAGE value="Removed the navbar, as this is a landing page and it wasn't necessary." />
     <MESSAGE value="Updated ACF on the homepage to make everything dynamic." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated ACF on the homepage to make everything dynamic." />
+    <MESSAGE value="Updated the colors to the correct red, and changed the icons in the footer to a different scheme." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated the colors to the correct red, and changed the icons in the footer to a different scheme." />
   </component>
   <component name="WindowStateProjectService">
     <state x="626" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600370564002">
