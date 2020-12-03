@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Updated the footer, since the ecommerce style one it defaults with had way too many links for this landing page.">
-      <change beforePath="$PROJECT_DIR$/devwp/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/header.php" afterDir="false" />
+    <list default="true" id="053c30ea-41d6-43a4-9236-366eb4cc3d4d" name="Default Changelist" comment="Removed the navbar, as this is a landing page and it wasn't necessary.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/devwp/front-page.php" beforeDir="false" afterPath="$PROJECT_DIR$/devwp/front-page.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +97,7 @@
       <workItem from="1600713969850" duration="164000" />
       <workItem from="1606754988007" duration="1324000" />
       <workItem from="1606762988529" duration="5020000" />
-      <workItem from="1606831804942" duration="18104000" />
+      <workItem from="1606831804942" duration="21537000" />
     </task>
     <task id="LOCAL-00001" summary="Updated a lot of the SASS to include some classes that I use in a lot of designs.">
       <created>1600362248990</created>
@@ -182,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606933604320</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Removed the navbar, as this is a landing page and it wasn't necessary.">
+      <created>1606933677658</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1606933677658</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +220,8 @@
     <MESSAGE value="Finished the first two sections on the homepage, still need to do the FAQ." />
     <MESSAGE value="Finished the structure of the FAQ sections, though the questions will need to be updated later." />
     <MESSAGE value="Updated the footer, since the ecommerce style one it defaults with had way too many links for this landing page." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated the footer, since the ecommerce style one it defaults with had way too many links for this landing page." />
+    <MESSAGE value="Removed the navbar, as this is a landing page and it wasn't necessary." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed the navbar, as this is a landing page and it wasn't necessary." />
   </component>
   <component name="WindowStateProjectService">
     <state x="626" y="307" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600370564002">
